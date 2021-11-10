@@ -36,6 +36,7 @@ h3 {
 li {
 	list-style-image: url(../img/lemon2.png);
 	margin-left: 40px;
+	float: left;
 }
 
 p {
